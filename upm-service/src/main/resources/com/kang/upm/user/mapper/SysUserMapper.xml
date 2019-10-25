@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.kang.upm.user.dao.SysUserMapper">
+
+   <select id="getDaulValue" resultType="com.kang.upm.bean.SysUser">
+       SELECT '1' username, '1' password FROM DUAL
+        union all
+       SELECT '2' username, '2' password FROM DUAL
+        union all
+       SELECT '3' username, '3' password FROM DUAL
+   </select>
+</mapper>
