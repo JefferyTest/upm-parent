@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcea1622-cb18-471e-acba-14502a668adb" name="Default Changelist" comment="首次提交">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/java/com/kang/ump/UmpWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/java/com/kang/ump/configration/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/java/com/kang/ump/configration/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/java/com/kang/ump/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/java/com/kang/ump/controller/SysUserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/cd-nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/image/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/image/light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/image/login-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/image/login-icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/image/login-icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/image/logo-center.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/image/logo-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/image/logo-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/image/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/image/msmp-favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/image/rute/app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/image/rute/gateway.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/image/rute/service.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/image/user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/jquery.mCustomScrollbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/lx-index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/resets.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/semantic.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/status.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/css/x-spinners.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/demo2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/css/layui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/css/layui.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/css/modules/code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/css/modules/layer/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/font/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/images/face/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/lay/modules/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/lay/modules/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/lay/modules/colorpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/lay/modules/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/lay/modules/flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/lay/modules/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/lay/modules/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/lay/modules/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/lay/modules/layedit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/lay/modules/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/lay/modules/laypage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/lay/modules/laytpl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/lay/modules/mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/lay/modules/rate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/lay/modules/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/lay/modules/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/lay/modules/transfer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/lay/modules/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/lay/modules/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/lay/modules/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/layui.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/layui/layui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/mydemo/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/mydemo/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/static/mydemo/js/mymod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/templates/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ump-web/src/test/java/com/kang/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upm-base/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upm-base/src/main/java/com/kang/CodeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upm-base/src/test/java/com/kang/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upm-service-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upm-service-api/src/main/java/com/kang/upm/bean/SysUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upm-service-api/src/test/java/com/kang/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upm-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upm-service/src/main/java/com/kang/upm/user/dao/SysUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upm-service/src/main/java/com/kang/upm/user/service/ISysUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upm-service/src/main/java/com/kang/upm/user/service/impl/SysUserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upm-service/src/main/resources/com/kang/upm/user/mapper/SysUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upm-service/src/test/java/com/kang/AppTest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="demo@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="demo@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="demo@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="demo: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="kang wang &lt;33674804+jefferytest@users.noreply.github.com&gt;" />
+        <option value="wangkang" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\jarpackage\repository" />
+        <option name="mavenHome" value="D:/config/maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\config\maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="aliyun" />
+      </list>
+    </option>
+    <option name="disabledProfiles">
+      <list>
+        <option value="zt" />
+        <option value="unidal.releases" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1R5XjspG0LC7qqNdbCFWEayHtoj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ump-web/src/main/resources/templates" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15481481" />
+    <property name="project.structure.side.proportion" value="0.31726557" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\upm-self\upm-parent\ump-web\src\main\resources\templates" />
+      <recent name="E:\upm-self\upm-parent\upm-base\src\main\java\com\kang" />
+      <recent name="E:\upm-self\upm-parent\ump-web\src" />
+      <recent name="E:\upm-self\upm-parent\upm-service\src\main\resources\mapper" />
+      <recent name="E:\upm-self\upm-parent\upm-service\src\main\java\com\kang\upm" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test.java.com.kang" />
+      <recent name="com.kang.bean" />
+      <recent name="com.kang.ump.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\upm-self\upm-parent\upm-service\src\main\resources\com\kang\upm\user\mapper" />
+      <recent name="E:\upm-self\upm-parent\upm-service\src\main\resources\com\kang\upm\user" />
+      <recent name="E:\upm-self\upm-parent\upm-service\src\main\resources\com\kang\upm" />
+      <recent name="E:\upm-self\upm-parent\ump-web\src\main\resources\static" />
+      <recent name="E:\upm-self\upm-parent\ump-web\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UmpWebApplication">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kang.CodeGenerator" />
+      <module name="upm-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UmpWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ump-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kang.ump.UmpWebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CodeGenerator" />
+      <item itemvalue="Spring Boot.UmpWebApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CodeGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\wangkang\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcea1622-cb18-471e-acba-14502a668adb" name="Default Changelist" comment="" />
+      <created>1568958068707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568958068707</updated>
+      <workItem from="1568958071303" duration="2122000" />
+      <workItem from="1568960220936" duration="1783000" />
+      <workItem from="1568962255103" duration="860000" />
+      <workItem from="1568963122112" duration="62000" />
+      <workItem from="1568965314315" duration="1765000" />
+      <workItem from="1569200784104" duration="897000" />
+      <workItem from="1569306512485" duration="7926000" />
+      <workItem from="1569317270049" duration="2921000" />
+      <workItem from="1569320571378" duration="2655000" />
+      <workItem from="1569373354286" duration="1193000" />
+      <workItem from="1569395581245" duration="1817000" />
+      <workItem from="1569397535096" duration="12023000" />
+      <workItem from="1569409957033" duration="362000" />
+      <workItem from="1569555178629" duration="67000" />
+      <workItem from="1569555710009" duration="674000" />
+      <workItem from="1569557079713" duration="663000" />
+      <workItem from="1569561598168" duration="1791000" />
+      <workItem from="1569573090257" duration="507000" />
+      <workItem from="1569573992404" duration="2179000" />
+      <workItem from="1569595514763" duration="209000" />
+      <workItem from="1569597633812" duration="479000" />
+      <workItem from="1569598261909" duration="243000" />
+      <workItem from="1569820713171" duration="157000" />
+      <workItem from="1571892443151" duration="843000" />
+      <workItem from="1571907953094" duration="1476000" />
+      <workItem from="1571915393560" duration="71000" />
+      <workItem from="1571984194659" duration="647000" />
+      <workItem from="1571984850181" duration="1480000" />
+      <workItem from="1572000246664" duration="499000" />
+      <workItem from="1572000957438" duration="51000" />
+      <workItem from="1572001025364" duration="692000" />
+      <workItem from="1572003549200" duration="240000" />
+      <workItem from="1572010406156" duration="900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="首次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="首次提交" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>
